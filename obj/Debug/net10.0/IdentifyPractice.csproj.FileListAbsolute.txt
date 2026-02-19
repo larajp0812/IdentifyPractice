@@ -9,7 +9,10 @@
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/IdentifyPractice.pdb
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Azure.Core.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Azure.Identity.dll
+/Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/BouncyCastle.Cryptography.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Humanizer.dll
+/Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/MailKit.dll
+/Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
@@ -55,6 +58,7 @@
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/MimeKit.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Mono.TextTemplating.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/Newtonsoft.Json.dll
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/bin/Debug/net10.0/NuGet.Common.dll
@@ -262,6 +266,7 @@
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/obj/Debug/net10.0/IdentifyPractice.csproj.CoreCompileInputs.cache
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/obj/Debug/net10.0/IdentifyPractice.MvcApplicationPartsAssemblyInfo.cs
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/obj/Debug/net10.0/IdentifyPractice.MvcApplicationPartsAssemblyInfo.cache
+/Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/obj/Debug/net10.0/IdentifyPractice.sourcelink.json
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /Users/larajohnson/AUOW/SEM2/Web App Dev/IdentifyPractice/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
